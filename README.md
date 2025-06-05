@@ -1,1 +1,1 @@
-my-desk-866w.vercel.app
+https://my-desk-866w.vercel.app
